@@ -1,4 +1,7 @@
+Práctica de React y de Javascript a través del ejercicio del Pokedex
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
