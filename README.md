@@ -1,3 +1,2 @@
-Práctica de React y de Javascript a través del ejercicio del Pokedex
-
-Ejercicio para manejar los estados y manejas de prop con Pokemons
+# Tutorial React Pokedex
+Creación a través de Javascript del ejercicio Pokedex. Pongo en práctica React y los conceptos fundamentales para la creación de páginas **Visita el demo**
